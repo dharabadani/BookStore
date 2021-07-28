@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test App 1`] = `
+<div
+  className="app"
+>
+  <header
+    data-testid="app-header"
+  >
+    <nav
+      className="navbar navbar-expand-lg navbar-light bg-light"
+    >
+      <a
+        className="navbar-brand"
+        href="#/"
+      >
+        Book Store
+      </a>
+    </nav>
+  </header>
+  <main>
+    <div />
+  </main>
+  <footer
+    data-testid="app-footer"
+  >
+    © 
+    2021
+  </footer>
+</div>
+`;
